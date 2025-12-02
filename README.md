@@ -127,7 +127,7 @@ Choice:
 <img width="584" height="280" alt="Image" src="https://github.com/user-attachments/assets/e3ad1cc4-3998-4d24-a5c5-fb4fdf4c43f2" />
 <img width="582" height="213" alt="Image" src="https://github.com/user-attachments/assets/1bd0172f-ec81-4208-8f35-1c197c275382" />
     
-## Acknowledgements
+## Author and Acknowledgements
 
 ACKNOWLEDGEMENT
 
@@ -139,6 +139,13 @@ ACKNOWLEDGEMENT
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finally, words cannot express our gratitude to God for the strength, blessings, and courage throughout this journey.  It is through His grace that we have been sustained at every step, allowing us to overcome the challenges of this project with determination and hope.
 
+AUTHOR
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; James Aldrei D. Decastro | Rheywen M. De Guzman | Hanna Mae U. Cumal | Hanna Krescha D. Corona 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Science in Information Technology - 2103
+College of Informatics and Computing Sciences
+Batangas State University - The National Engineering University
  
 ## REFERENCE
     HUHUHU ILOVE YOUUUUU WALTERRRRIVEEEEEERMUCHH
